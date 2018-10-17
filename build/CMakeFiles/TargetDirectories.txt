@@ -1,0 +1,3 @@
+/home/hollan/dev/cppcmake/build/CMakeFiles/rebuild_cache.dir
+/home/hollan/dev/cppcmake/build/CMakeFiles/main.dir
+/home/hollan/dev/cppcmake/build/CMakeFiles/edit_cache.dir
